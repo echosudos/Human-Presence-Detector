@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "sdk_version": "2.1.0",
+  "target": "MAX78000",
+  "board": "FTHR_RevA",
+  "name": "digit-detection-demo",
+  "adapter": "interface/cmsis-dap.cfg",
+  "openocd_target": "target/max78000.cfg",
+  "adapter_speed": 1000,
+  "serial_baud": 115200,
+  "make_variables": {}
+}

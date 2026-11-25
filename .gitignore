@@ -1,0 +1,18 @@
+# MSDK and CodeFusion build output
+/build/
+
+# Local debugger output and Eclipse workspace state
+/debug-arm.log
+/debug-riscv.log
+/flash.log
+/.metadata/
+
+# Python caches and local virtual environments
+__pycache__/
+*.py[cod]
+/.venv/
+
+# Image conversion intermediates
+/Resources/new_img.png
+/TFT/fthr/bmp/temp.bmp
+/TFT/fthr/bmp/out.bmp
